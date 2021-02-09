@@ -45,6 +45,7 @@ class EthereumNetwork(Enum):
     RINKEBY = 4
     GOERLI = 5
     KOVAN = 42
+    BSC = 56
     XDAI = 100
     ENERGY_WEB_CHAIN = 246
     VOLTA = 73799
